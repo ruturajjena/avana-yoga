@@ -1,0 +1,6 @@
+# Source footage and working files — the site ships the encoded files in public/media.
+assets
+.data
+qa-out
+scratchpad
+scripts/qa
